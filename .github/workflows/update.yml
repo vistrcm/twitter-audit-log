@@ -1,7 +1,7 @@
 name: Collect twitter data
 on:
   schedule:
-    - cron: "38 22 * * *"
+    - cron: "43 22 * * *"
 defaults:
   run:
     working-directory: ./tool
