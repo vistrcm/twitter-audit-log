@@ -1,8 +1,7 @@
 name: Collect twitter data
 on:
-  workflow_dispatch
   schedule:
-    - cron: "01 23 * * *"
+    - cron: "50 00 * * *"
 defaults:
   run:
     working-directory: ./tool
