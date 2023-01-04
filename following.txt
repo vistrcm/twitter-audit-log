@@ -25,6 +25,7 @@
 21035874,philipto
 207471698,risen_from
 95225368,pososhok
+194505231,Alex_Pushkin
 218938116,Avelednuk
 136293558,GoogleMobile
 132209588,Pigulevskaya
@@ -106,7 +107,6 @@
 453787949,nepank_
 15473958,MarsCuriosity
 115515777,peacefrog1970
-194505231,Alex_Pushkin
 539296619,BigDataBorat
 110735747,SunTechDaysSPB
 89781021,ksenks
@@ -195,7 +195,6 @@
 33838201,GoogleAI
 14383367,qmarik
 2872306178,cs231n
-2721555804,HueviyAmsterdam
 15184804,Emergency_In_SF
 511125644,Uber_Russia
 755869002371563520,vinpele
